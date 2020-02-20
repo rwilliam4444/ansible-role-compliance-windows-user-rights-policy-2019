@@ -1,0 +1,1 @@
+# ansible-role-compliance-windows-user-rights-policy-2019
