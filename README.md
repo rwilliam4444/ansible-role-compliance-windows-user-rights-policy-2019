@@ -35,6 +35,4 @@ __remediate__ |"NO"| variable used to determine whether or not to remediate.
 
 
 # Author Information:
-Richard M. Williams
-
-rmwill@us.ibm.com
+Richard M. Williams (williamsitv@yahoo.com)
